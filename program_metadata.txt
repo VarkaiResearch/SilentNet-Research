@@ -1,0 +1,7 @@
+Name: 0b349a5b1a1d1d40b3fbaf1a794c94f569770ce5a9a4bdf8cbeb198627a9da12.exe
+Language: x86:LE:64:default
+CompilerSpec: clangwindows
+Program min address: 00400000
+Program max address: ff0000184f
+Function count (Ghidra): 580
+This is a STATIC export; no malware execution occurred.

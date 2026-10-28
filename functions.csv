@@ -1,0 +1,533 @@
+name,entry,signature,is_thunk,is_external,body_bytes
+"entry","00401000","undefined __fastcall entry(void)",false,false,17
+"FUN_00401011","00401011","undefined __fastcall FUN_00401011(void)",false,false,5251
+"FUN_00402494","00402494","undefined __fastcall FUN_00402494(undefined8 * param_1, undefined8 param_2, undefined8 param_3)",false,false,15426
+"FUN_00406162","00406162","LPVOID __fastcall FUN_00406162(undefined8 param_1, SIZE_T param_2)",false,false,49
+"FUN_00406193","00406193","ulonglong __fastcall FUN_00406193(undefined8 param_1, longlong param_2, ulonglong param_3, undefined8 param_4, ulonglong param_5)",false,false,97
+"FUN_00406204","00406204","longlong __fastcall FUN_00406204(undefined8 * param_1, ulonglong param_2, uint param_3, undefined8 param_4)",false,false,1645
+"FUN_00406871","00406871","ulonglong __fastcall FUN_00406871(undefined8 * param_1, ulonglong param_2, ulonglong param_3, uint param_4, ulonglong param_5, undefined8 param_6)",false,false,373
+"FUN_004069e6","004069e6","undefined __fastcall FUN_004069e6(undefined8 * param_1, ulonglong param_2, ulonglong param_3, uint param_4, undefined8 param_5)",false,false,485
+"FUN_00406bcb","00406bcb","longlong * __fastcall FUN_00406bcb(longlong * param_1, undefined8 * param_2, longlong param_3, longlong param_4)",false,false,101
+"FUN_00406c30","00406c30","undefined8 * __fastcall FUN_00406c30(undefined8 * param_1, undefined8 * param_2, longlong param_3)",false,false,426
+"FUN_00406dda","00406dda","short __fastcall FUN_00406dda(longlong param_1, ulonglong param_2)",false,false,225
+"FUN_00406ef1","00406ef1","undefined8 * __fastcall FUN_00406ef1(undefined8 * param_1, undefined8 * param_2, ulonglong param_3)",false,false,92
+"FUN_00406f4d","00406f4d","ulonglong * __fastcall FUN_00406f4d(ulonglong * param_1, undefined8 * param_2, LPVOID param_3, ulonglong param_4)",false,false,37
+"FUN_00406f72","00406f72","undefined __fastcall FUN_00406f72(undefined8 * param_1)",false,false,73
+"FUN_00406fbb","00406fbb","longlong * __fastcall FUN_00406fbb(longlong * param_1, longlong * param_2)",false,false,232
+"FUN_004070a3","004070a3","ulonglong * __fastcall FUN_004070a3(ulonglong * param_1, ulonglong * param_2, undefined8 * param_3, ulonglong param_4)",false,false,404
+"FUN_00407237","00407237","undefined __fastcall FUN_00407237(undefined8 * param_1)",false,false,52
+"FUN_0040726b","0040726b","undefined __fastcall FUN_0040726b(undefined4 * param_1)",false,false,52
+"FUN_0040729f","0040729f","undefined __fastcall FUN_0040729f(undefined8 * param_1)",false,false,67
+"FUN_004072e2","004072e2","undefined __fastcall FUN_004072e2(undefined8 * param_1, undefined8 param_2, longlong param_3)",false,false,59
+"FUN_0040731d","0040731d","ulonglong __fastcall FUN_0040731d(undefined8 * param_1, LPCSTR param_2, longlong param_3)",false,false,79
+"FUN_0040736c","0040736c","ulonglong __fastcall FUN_0040736c(undefined8 * param_1, longlong param_2, longlong param_3)",false,false,997
+"FUN_00407751","00407751","undefined __fastcall FUN_00407751(longlong param_1, ulonglong param_2)",false,false,367
+"FUN_004078c0","004078c0","undefined8 * __fastcall FUN_004078c0(undefined8 * param_1, longlong param_2, ulonglong param_3, byte * param_4)",false,false,301
+"FUN_004079ed","004079ed","ulonglong * __fastcall FUN_004079ed(ulonglong * param_1, longlong param_2, ulonglong param_3, byte * param_4, ulonglong param_5)",false,false,40
+"FUN_00407a15","00407a15","short __fastcall FUN_00407a15(undefined8 * param_1, longlong param_2, ulonglong param_3)",false,false,99
+"FUN_00407a78","00407a78","undefined8 __fastcall FUN_00407a78(undefined8 param_1, longlong param_2, longlong param_3, longlong param_4)",false,false,13554
+"FUN_0040af6a","0040af6a","undefined __fastcall FUN_0040af6a(longlong * param_1, undefined8 * param_2)",false,false,77
+"FUN_0040afb7","0040afb7","undefined __fastcall FUN_0040afb7(undefined8 * param_1, longlong param_2, undefined8 param_3, undefined4 param_4, longlong param_5, undefined8 param_6)",false,false,126
+"FUN_0040b035","0040b035","ulonglong * __fastcall FUN_0040b035(undefined8 * param_1, ulonglong param_2, ulonglong * param_3)",false,false,74
+"FUN_0040b07f","0040b07f","undefined __fastcall FUN_0040b07f(undefined8 * param_1, longlong param_2, undefined8 param_3, undefined4 param_4, undefined8 param_5)",false,false,248
+"FUN_0040b177","0040b177","undefined8 * __fastcall FUN_0040b177(undefined8 * param_1, undefined8 * param_2, ulonglong * param_3)",false,false,62
+"FUN_0040b1b5","0040b1b5","undefined __fastcall FUN_0040b1b5(undefined8 * param_1, undefined8 * param_2)",false,false,475
+"FUN_0040b390","0040b390","undefined __fastcall FUN_0040b390(undefined8 * param_1, undefined8 param_2, ulonglong param_3)",false,false,49
+"FUN_0040b3c1","0040b3c1","ulonglong * __fastcall FUN_0040b3c1(ulonglong * param_1, ulonglong param_2, ulonglong param_3)",false,false,145
+"FUN_0040b452","0040b452","undefined8 * __fastcall FUN_0040b452(undefined8 * param_1, longlong * param_2, undefined8 param_3, longlong * param_4, longlong * param_5)",false,false,3232
+"FUN_0040c0f2","0040c0f2","ulonglong __fastcall FUN_0040c0f2(longlong * param_1)",false,false,3968
+"FUN_0040d072","0040d072","undefined __fastcall FUN_0040d072(longlong param_1)",false,false,43
+"FUN_0040d09d","0040d09d","ulonglong * __fastcall FUN_0040d09d(ulonglong * param_1, longlong * param_2, longlong param_3, undefined8 * param_4)",false,false,465
+"FUN_0040d26e","0040d26e","short __fastcall FUN_0040d26e(undefined8 * param_1, longlong param_2, longlong param_3)",false,false,80
+"FUN_0040d2be","0040d2be","undefined8 * __fastcall FUN_0040d2be(longlong * param_1, uint * param_2)",false,false,5947
+"FUN_0040e9f9","0040e9f9","undefined8 * __fastcall FUN_0040e9f9(undefined8 * param_1, uint * param_2, ulonglong * param_3, ulonglong * param_4)",false,false,10556
+"FUN_0041133a","0041133a","longlong * __fastcall FUN_0041133a(longlong * param_1, undefined8 * param_2, longlong param_3)",false,false,124
+"FUN_004113b6","004113b6","longlong __fastcall FUN_004113b6(longlong param_1, longlong param_2, longlong param_3, ulonglong param_4)",false,false,3380
+"FUN_004120ea","004120ea","LPWSTR __fastcall FUN_004120ea(undefined8 * param_1, LPCSTR param_2, longlong param_3)",false,false,206
+"FUN_004121b8","004121b8","undefined __fastcall FUN_004121b8(undefined8 * param_1, undefined1 * param_2, longlong param_3)",false,false,73
+"FUN_00412201","00412201","undefined1 * __fastcall FUN_00412201(undefined8 * param_1, longlong param_2, longlong param_3)",false,false,153
+"FUN_0041229a","0041229a","undefined __fastcall FUN_0041229a(undefined8 * param_1)",false,false,73
+"FUN_004122e3","004122e3","short __fastcall FUN_004122e3(longlong * param_1, undefined8 param_2, undefined8 param_3)",false,false,316
+"FUN_0041241f","0041241f","short __fastcall FUN_0041241f(longlong * param_1, ulonglong param_2)",false,false,148
+"FUN_004124b3","004124b3","short __fastcall FUN_004124b3(longlong * param_1, ulonglong param_2)",false,false,46
+"FUN_004124e1","004124e1","ulonglong * __fastcall FUN_004124e1(ulonglong * param_1, undefined8 * param_2, longlong param_3, ulonglong param_4)",false,false,107
+"FUN_0041254c","0041254c","undefined __fastcall FUN_0041254c(longlong * param_1, longlong param_2)",false,false,84
+"FUN_004125a0","004125a0","undefined8 __fastcall FUN_004125a0(undefined8 * param_1, undefined8 param_2, longlong param_3, longlong param_4)",false,false,77
+"FUN_004125ed","004125ed","longlong * __fastcall FUN_004125ed(longlong * param_1, undefined8 * param_2, longlong param_3)",false,false,112
+"FUN_0041265d","0041265d","ulonglong * __fastcall FUN_0041265d(ulonglong * param_1, longlong param_2, ulonglong param_3, ulonglong param_4, byte * param_5, ulonglong param_6)",false,false,315
+"FUN_00412798","00412798","ulonglong * __fastcall FUN_00412798(ulonglong * param_1, undefined8 * param_2, LPCVOID param_3, ulonglong param_4)",false,false,37
+"FUN_004127bd","004127bd","ulonglong * __fastcall FUN_004127bd(ulonglong * param_1, longlong * param_2, longlong param_3, ulonglong param_4)",false,false,130
+"FUN_0041283f","0041283f","undefined __fastcall FUN_0041283f(undefined8 * param_1)",false,false,60
+"FUN_0041287b","0041287b","longlong * __fastcall FUN_0041287b(longlong * param_1, longlong * param_2, longlong param_3)",false,false,222
+"FUN_00412959","00412959","undefined __fastcall FUN_00412959(undefined8 * param_1, ulonglong * param_2, undefined8 * param_3)",false,false,40
+"FUN_00412981","00412981","undefined __fastcall FUN_00412981(undefined8 * param_1, undefined8 param_2, longlong param_3)",false,false,59
+"FUN_004129bc","004129bc","ulonglong * __fastcall FUN_004129bc(ulonglong * param_1, ulonglong param_2, ulonglong param_3, longlong param_4, ulonglong param_5)",false,false,1615
+"FUN_0041300b","0041300b","byte * __fastcall FUN_0041300b(byte * param_1, longlong * param_2, undefined8 * param_3)",false,false,624
+"FUN_0041327b","0041327b","longlong * __fastcall FUN_0041327b(longlong * param_1, undefined8 * param_2, longlong param_3, longlong param_4)",false,false,993
+"FUN_0041365c","0041365c","ulonglong * __fastcall FUN_0041365c(ulonglong * param_1, undefined8 * param_2, longlong param_3, ulonglong param_4)",false,false,25
+"FUN_00413675","00413675","short * __fastcall FUN_00413675(short * param_1, longlong param_2, longlong param_3, longlong * param_4, undefined8 * param_5)",false,false,211
+"FUN_00413748","00413748","undefined __fastcall FUN_00413748(undefined8 * param_1, undefined1 param_2)",false,false,42
+"FUN_00413772","00413772","short __fastcall FUN_00413772(longlong * param_1, char * param_2, undefined8 * param_3)",false,false,1286
+"FUN_00413c78","00413c78","undefined8 __fastcall FUN_00413c78(undefined8 * param_1)",false,false,52
+"FUN_00413cac","00413cac","undefined __fastcall FUN_00413cac(PSRWLOCK param_1, undefined8 * param_2, SOCKET * param_3)",false,false,234
+"FUN_00413d96","00413d96","undefined1 __fastcall FUN_00413d96(longlong param_1, longlong param_2, longlong param_3, longlong param_4)",false,false,86
+"FUN_00413dec","00413dec","short __fastcall FUN_00413dec(undefined8 * param_1)",false,false,121
+"FUN_00413e65","00413e65","longlong __fastcall FUN_00413e65(longlong param_1)",false,false,33
+"FUN_00413e86","00413e86","undefined1[16] * __fastcall FUN_00413e86(undefined1[16] * param_1, uint * param_2, uint * param_3, uint * param_4)",false,false,2058
+"FUN_00414695","00414695","ulonglong __fastcall FUN_00414695(int param_1)",false,false,90
+"FUN_004146ef","004146ef","ulonglong * __fastcall FUN_004146ef(ulonglong * param_1, undefined8 * param_2, longlong param_3, ulonglong param_4)",false,false,1104
+"FUN_00414b10","00414b10","uint * __fastcall FUN_00414b10(uint * param_1, char * param_2)",false,false,215
+"FUN_00414be7","00414be7","undefined __fastcall FUN_00414be7(undefined8 * param_1, longlong param_2, undefined4 param_3, undefined8 param_4)",false,false,76
+"FUN_00414c33","00414c33","undefined __fastcall FUN_00414c33(undefined8 * param_1, ulonglong param_2, ulonglong param_3, undefined8 param_4, ulonglong param_5)",false,false,68
+"FUN_00414c77","00414c77","undefined __fastcall FUN_00414c77(undefined8 * param_1, ulonglong param_2, longlong param_3)",false,false,62
+"FUN_00414cb5","00414cb5","undefined __fastcall FUN_00414cb5(undefined8 * param_1, undefined1[16] * param_2, ulonglong param_3)",false,false,262
+"FUN_00414dbb","00414dbb","undefined8 * __fastcall FUN_00414dbb(undefined8 * param_1, longlong * param_2)",false,false,114
+"FUN_00414e95","00414e95","undefined __fastcall FUN_00414e95(undefined8 * param_1)",false,false,73
+"FUN_00414ede","00414ede","undefined8 * __fastcall FUN_00414ede(undefined8 * param_1, short * param_2, ulonglong param_3, undefined8 * param_4)",false,false,661
+"FUN_00415173","00415173","undefined __fastcall FUN_00415173(undefined8 * param_1, undefined1 * param_2, longlong param_3)",false,false,73
+"FUN_004151bc","004151bc","ulonglong * __fastcall FUN_004151bc(ulonglong * param_1, HANDLE param_2, LPVOID param_3, ulonglong param_4, undefined8 * param_5)",false,false,221
+"FUN_00415299","00415299","undefined __fastcall FUN_00415299(ulonglong param_1, ulonglong param_2)",false,false,33
+"FUN_004152ba","004152ba","undefined __fastcall FUN_004152ba(longlong * param_1, undefined8 * param_2, longlong param_3)",false,false,179
+"FUN_0041536d","0041536d","undefined FUN_0041536d(void)",false,false,691
+"FUN_00415620","00415620","undefined __fastcall FUN_00415620(char * param_1, ulonglong param_2, char * param_3, ulonglong param_4)",false,false,29
+"FUN_0041563d","0041563d","ulonglong * __fastcall FUN_0041563d(ulonglong * param_1, HANDLE param_2, LPCVOID param_3, ulonglong param_4, undefined8 * param_5)",false,false,239
+"FUN_0041572c","0041572c","undefined __fastcall FUN_0041572c(longlong param_1, ulonglong param_2, ulonglong param_3, undefined8 * param_4)",false,false,847
+"FUN_00415af6","00415af6","longlong __fastcall FUN_00415af6(longlong param_1, ulonglong param_2)",false,false,140
+"FUN_00415b82","00415b82","undefined2 __fastcall FUN_00415b82(longlong param_1, ulonglong param_2, longlong param_3, ulonglong param_4)",false,false,806
+"FUN_00415ea8","00415ea8","undefined __fastcall FUN_00415ea8(longlong * param_1, longlong param_2, byte param_3)",false,false,86
+"FUN_00415efe","00415efe","undefined8 __fastcall FUN_00415efe(longlong * param_1, char * param_2, ulonglong param_3)",false,false,37
+"FUN_00415f23","00415f23","longlong * __fastcall FUN_00415f23(longlong * param_1, longlong param_2, longlong param_3, char * param_4)",false,false,108
+"FUN_00415f8f","00415f8f","uint * __fastcall FUN_00415f8f(uint * param_1, char * param_2, longlong param_3)",false,false,277
+"FUN_004160a4","004160a4","longlong __fastcall FUN_004160a4(ulonglong * param_1, longlong param_2, byte param_3)",false,false,96
+"FUN_00416104","00416104","undefined8 __fastcall FUN_00416104(ulonglong * param_1, longlong param_2, ulonglong param_3, undefined8 param_4, ulonglong param_5)",false,false,61
+"FUN_0041615b","0041615b","undefined8 __fastcall FUN_0041615b(undefined8 param_1)",false,false,30
+"FUN_00416179","00416179","PSRWLOCK __fastcall FUN_00416179(PSRWLOCK param_1, longlong * param_2)",false,false,133
+"FUN_004161fe","004161fe","undefined8 * __fastcall FUN_004161fe(undefined8 * param_1, undefined8 * param_2, longlong param_3, longlong param_4)",false,false,3798
+"FUN_004170d4","004170d4","undefined __fastcall FUN_004170d4(SOCKET * param_1, undefined8 * param_2)",false,false,126
+"FUN_00417152","00417152","undefined __fastcall FUN_00417152(undefined8 * param_1, undefined8 param_2)",false,false,43
+"FUN_0041717d","0041717d","undefined __fastcall FUN_0041717d(longlong * param_1, undefined8 * param_2)",false,false,98
+"FUN_004171df","004171df","ulonglong * __fastcall FUN_004171df(ulonglong * param_1, undefined8 * param_2, longlong param_3, ulonglong param_4)",false,false,160
+"FUN_0041727f","0041727f","undefined __fastcall FUN_0041727f(longlong * param_1, longlong * param_2)",false,false,183
+"FUN_00417336","00417336","undefined __fastcall FUN_00417336(longlong * param_1, longlong * param_2)",false,false,70
+"FUN_0041737c","0041737c","undefined __fastcall FUN_0041737c(longlong * param_1, longlong * param_2)",false,false,183
+"FUN_00417445","00417445","undefined8 __fastcall FUN_00417445(undefined8 * param_1, longlong param_2, ulonglong param_3)",false,false,193
+"FUN_00417506","00417506","undefined __fastcall FUN_00417506(longlong * param_1, longlong * param_2)",false,false,47
+"FUN_00417535","00417535","undefined __fastcall FUN_00417535(undefined8 * param_1, longlong * param_2)",false,false,62
+"FUN_00417573","00417573","undefined __fastcall FUN_00417573(undefined8 * param_1, longlong * param_2)",false,false,47
+"FUN_004175a2","004175a2","ulonglong * __fastcall FUN_004175a2(ulonglong * param_1, undefined8 * param_2, undefined8 * param_3, longlong param_4)",false,false,6331
+"FUN_00418e9e","00418e9e","longlong __fastcall FUN_00418e9e(longlong * param_1)",false,false,142
+"FUN_00418f2c","00418f2c","longlong __fastcall FUN_00418f2c(longlong * param_1)",false,false,128
+"FUN_00418fac","00418fac","longlong __fastcall FUN_00418fac(longlong * param_1)",false,false,113
+"FUN_0041901d","0041901d","byte * __fastcall FUN_0041901d(byte * param_1, longlong param_2, longlong param_3)",false,false,138
+"FUN_004190a7","004190a7","ulonglong * __fastcall FUN_004190a7(ulonglong * param_1, undefined8 * param_2, longlong param_3, ulonglong param_4)",false,false,282
+"FUN_004191c1","004191c1","undefined __fastcall FUN_004191c1(longlong * param_1, longlong param_2, ulonglong param_3)",false,false,510
+"FUN_004193bf","004193bf","ulonglong * __fastcall FUN_004193bf(ulonglong * param_1, char * param_2, longlong param_3)",false,false,191
+"FUN_0041947e","0041947e","short * __fastcall FUN_0041947e(short * param_1, char * param_2, longlong param_3)",false,false,181
+"FUN_00419533","00419533","short __fastcall FUN_00419533(longlong * param_1, ulonglong param_2)",false,false,151
+"FUN_004195ca","004195ca","undefined __fastcall FUN_004195ca(undefined4 * param_1, uint param_2)",false,false,79
+"FUN_00419619","00419619","undefined __fastcall FUN_00419619(char * param_1, longlong param_2, char * param_3, longlong param_4)",false,false,45
+"FUN_00419646","00419646","bool __fastcall FUN_00419646(short * param_1, ulonglong param_2)",false,false,60
+"FUN_00419682","00419682","longlong * __fastcall FUN_00419682(longlong * param_1, undefined8 * param_2, longlong param_3, undefined8 param_4)",false,false,124
+"FUN_004196fe","004196fe","undefined8 __fastcall FUN_004196fe(undefined8 param_1, undefined8 param_2, undefined1 param_3, undefined1 param_4)",false,false,107
+"FUN_00419769","00419769","bool __fastcall FUN_00419769(char * param_1, ulonglong param_2, char * param_3, ulonglong param_4)",false,false,240
+"FUN_00419859","00419859","undefined __fastcall FUN_00419859(undefined4 * param_1, byte param_2)",false,false,83
+"FUN_004198ac","004198ac","short __fastcall FUN_004198ac(undefined8 * param_1, longlong param_2, longlong param_3, longlong param_4)",false,false,80
+"FUN_004198fc","004198fc","longlong __fastcall FUN_004198fc(longlong param_1, longlong param_2)",false,false,44
+"FUN_00419928","00419928","longlong __fastcall FUN_00419928(longlong param_1, longlong param_2, undefined2 * param_3, longlong param_4)",false,false,431
+"FUN_00419ad7","00419ad7","undefined __fastcall FUN_00419ad7(void)",false,false,35
+"FUN_00419afa","00419afa","longlong * __fastcall FUN_00419afa(longlong * param_1, undefined8 * param_2, longlong param_3)",false,false,128
+"FUN_00419b7a","00419b7a","ushort * __fastcall FUN_00419b7a(ushort * param_1, char * param_2, longlong param_3)",false,false,205
+"FUN_00419c47","00419c47","bool __fastcall FUN_00419c47(longlong param_1, longlong param_2, longlong param_3)",false,false,37
+"FUN_00419c6c","00419c6c","longlong __fastcall FUN_00419c6c(void)",false,false,162
+"FUN_00419d0e","00419d0e","undefined __fastcall FUN_00419d0e(SOCKET * param_1)",false,false,31
+"FUN_00419d2d","00419d2d","undefined FUN_00419d2d(void)",false,false,11822
+"FUN_00420376","00420376","undefined __fastcall FUN_00420376(undefined8 * param_1, undefined8 param_2)",false,false,43
+"FUN_004203a1","004203a1","longlong * __fastcall FUN_004203a1(undefined8 param_1, uint * param_2, undefined8 param_3, undefined8 param_4)",false,false,441
+"FUN_0042055a","0042055a","longlong * __fastcall FUN_0042055a(undefined8 param_1, uint * param_2, longlong param_3, longlong param_4)",false,false,2259
+"FUN_00420e2d","00420e2d","undefined8 * __fastcall FUN_00420e2d(undefined8 * param_1, undefined8 * param_2, undefined8 * param_3, longlong param_4)",false,false,92
+"FUN_00420e89","00420e89","longlong __fastcall FUN_00420e89(longlong param_1, longlong param_2)",false,false,44
+"FUN_00420eb5","00420eb5","ulonglong * __fastcall FUN_00420eb5(ulonglong * param_1, undefined8 * param_2, undefined8 * param_3, longlong param_4)",false,false,63
+"FUN_00420ef4","00420ef4","undefined __fastcall FUN_00420ef4(longlong * param_1, longlong param_2, longlong param_3, char param_4)",false,false,37
+"FUN_00420f19","00420f19","ulonglong * __fastcall FUN_00420f19(ulonglong * param_1, char * param_2, longlong param_3)",false,false,211
+"FUN_00420fec","00420fec","undefined8 __fastcall FUN_00420fec(char * param_1, ulonglong param_2, char * param_3, ulonglong param_4)",false,false,16
+"FUN_00420ffc","00420ffc","undefined __fastcall FUN_00420ffc(undefined4 * param_1, char param_2, byte param_3)",false,false,57
+"FUN_00421035","00421035","undefined8 __fastcall FUN_00421035(undefined8 * param_1, undefined1 * param_2, longlong param_3, longlong param_4)",false,false,91
+"FUN_00421090","00421090","longlong * __fastcall FUN_00421090(longlong * param_1, undefined8 * param_2, longlong param_3)",false,false,112
+"FUN_00421100","00421100","undefined __fastcall FUN_00421100(ushort * param_1, byte * param_2)",false,false,137
+"FUN_00421189","00421189","undefined __fastcall FUN_00421189(ushort * param_1, byte * param_2)",false,false,211
+"FUN_0042125c","0042125c","undefined __fastcall FUN_0042125c(undefined8 * param_1, byte * param_2)",false,false,299
+"FUN_00421387","00421387","short __fastcall FUN_00421387(longlong * param_1, ulonglong param_2)",false,false,46
+"FUN_004213b5","004213b5","undefined __fastcall FUN_004213b5(longlong * param_1, ulonglong param_2, ulonglong param_3)",false,false,45
+"FUN_004213e2","004213e2","undefined8 __fastcall FUN_004213e2(undefined8 param_1, undefined4 param_2, longlong param_3, undefined4 param_4, longlong param_5, undefined4 param_6)",false,false,141
+"FUN_0042146f","0042146f","undefined8 __fastcall FUN_0042146f(char * param_1, ulonglong param_2, char * param_3, ulonglong param_4)",false,false,16
+"FUN_0042147f","0042147f","undefined1[16] * __fastcall FUN_0042147f(undefined1[16] * param_1, longlong param_2, ulonglong param_3)",false,false,31
+"FUN_0042149e","0042149e","uint * __fastcall FUN_0042149e(uint * param_1, uint * param_2)",false,false,1000
+"FUN_00421886","00421886","undefined __fastcall FUN_00421886(undefined8 param_1)",false,false,31
+"FUN_004218a5","004218a5","longlong __fastcall FUN_004218a5(undefined8 * param_1, longlong param_2, byte param_3)",false,false,230
+"FUN_00421a03","00421a03","undefined __fastcall FUN_00421a03(undefined8 * param_1, longlong * param_2)",false,false,278
+"FUN_00421b19","00421b19","longlong * __fastcall FUN_00421b19(longlong * param_1, longlong * param_2)",false,false,3173
+"FUN_0042277e","0042277e","longlong * __fastcall FUN_0042277e(longlong * param_1, undefined8 * param_2, longlong param_3)",false,false,71
+"FUN_004227c5","004227c5","undefined __fastcall FUN_004227c5(undefined8 * param_1)",false,false,34
+"FUN_004227e7","004227e7","undefined __fastcall FUN_004227e7(undefined8 param_1, longlong param_2, ulonglong param_3)",false,false,407
+"FUN_0042297e","0042297e","undefined8 * __fastcall FUN_0042297e(undefined8 * param_1, longlong param_2)",false,false,1072
+"FUN_00422dae","00422dae","undefined __fastcall FUN_00422dae(longlong param_1, ulonglong param_2, longlong param_3, undefined1 * param_4)",false,false,107
+"FUN_00422e19","00422e19","ulonglong __fastcall FUN_00422e19(longlong * param_1, undefined8 * param_2, ulonglong param_3)",false,false,168
+"FUN_00422ec1","00422ec1","undefined __fastcall FUN_00422ec1(longlong * param_1, undefined8 * param_2)",false,false,42
+"FUN_00422eeb","00422eeb","undefined __fastcall FUN_00422eeb(ulonglong * param_1, longlong param_2)",false,false,179
+"FUN_00422f9e","00422f9e","undefined __fastcall FUN_00422f9e(ulonglong * param_1, longlong param_2)",false,false,139
+"FUN_00423029","00423029","ulonglong * __fastcall FUN_00423029(ulonglong * param_1, byte * param_2, longlong param_3)",false,false,69
+"FUN_0042306e","0042306e","ulonglong * __fastcall FUN_0042306e(ulonglong * param_1, byte * param_2, longlong param_3)",false,false,2190
+"FUN_004238fc","004238fc","longlong __fastcall FUN_004238fc(longlong param_1, byte * param_2, longlong param_3)",false,false,76
+"FUN_00423948","00423948","longlong __fastcall FUN_00423948(longlong param_1, byte * param_2, longlong param_3)",false,false,3252
+"FUN_004245fc","004245fc","longlong * __fastcall FUN_004245fc(longlong * param_1, longlong param_2)",false,false,265
+"FUN_00424705","00424705","undefined __fastcall FUN_00424705(uint * param_1, longlong param_2, uint param_3)",false,false,120
+"FUN_0042477d","0042477d","longlong __fastcall FUN_0042477d(longlong param_1, undefined8 param_2, undefined8 param_3, longlong param_4)",false,false,1267
+"FUN_00424c70","00424c70","longlong __fastcall FUN_00424c70(longlong param_1, longlong param_2, longlong param_3, longlong param_4)",false,false,265
+"FUN_00424d79","00424d79","undefined2 * __fastcall FUN_00424d79(undefined2 * param_1, longlong param_2, longlong param_3)",false,false,264
+"FUN_00424e81","00424e81","longlong __fastcall FUN_00424e81(undefined8 param_1, longlong param_2, undefined8 param_3, longlong param_4)",false,false,1996
+"FUN_0042564d","0042564d","undefined8 __fastcall FUN_0042564d(longlong param_1, longlong param_2, longlong param_3)",false,false,238
+"FUN_0042573b","0042573b","undefined __fastcall FUN_0042573b(longlong param_1, ulonglong param_2, longlong param_3)",false,false,77
+"FUN_00425788","00425788","ulonglong __fastcall FUN_00425788(longlong param_1, ulonglong param_2, byte * param_3, longlong param_4, ulonglong param_5)",false,false,543
+"FUN_004259a7","004259a7","undefined2 * __fastcall FUN_004259a7(undefined2 * param_1, longlong param_2, longlong param_3)",false,false,264
+"FUN_00425aaf","00425aaf","undefined2 * __fastcall FUN_00425aaf(undefined2 * param_1, longlong param_2, longlong param_3)",false,false,261
+"FUN_00425bb4","00425bb4","undefined __fastcall FUN_00425bb4(longlong param_1, ulonglong param_2, longlong param_3)",false,false,86
+"FUN_00425c0a","00425c0a","ulonglong __fastcall FUN_00425c0a(longlong param_1, ulonglong param_2, byte * param_3, longlong param_4, ulonglong param_5)",false,false,553
+"FUN_00425e33","00425e33","undefined __fastcall FUN_00425e33(longlong param_1, ulonglong param_2, longlong param_3)",false,false,86
+"FUN_00425e89","00425e89","ulonglong __fastcall FUN_00425e89(longlong param_1, ulonglong param_2, byte * param_3, longlong param_4, ulonglong param_5)",false,false,573
+"FUN_004260c6","004260c6","short __fastcall FUN_004260c6(undefined8 * param_1, longlong param_2, ulonglong param_3)",false,false,160
+"FUN_00426166","00426166","undefined8 __fastcall FUN_00426166(char param_1)",false,false,217
+"FUN_0042623f","0042623f","uint __fastcall FUN_0042623f(longlong * param_1)",false,false,43
+"FUN_0042626a","0042626a","short * __fastcall FUN_0042626a(short * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,125
+"FUN_004262e7","004262e7","ulonglong * __fastcall FUN_004262e7(ulonglong * param_1, ulonglong * param_2, undefined8 * param_3, byte param_4)",false,false,1094
+"FUN_0042672d","0042672d","undefined __fastcall FUN_0042672d(ulonglong * param_1, ulonglong * param_2)",false,false,1053
+"FUN_00426b4a","00426b4a","undefined8 * __fastcall FUN_00426b4a(undefined8 * param_1, ulonglong * param_2, uint param_3)",false,false,401
+"FUN_00426cdb","00426cdb","undefined __fastcall FUN_00426cdb(uint * param_1, longlong param_2, ulonglong param_3)",false,false,166
+"FUN_00426d81","00426d81","longlong __fastcall FUN_00426d81(longlong param_1, undefined8 * param_2)",false,false,57
+"FUN_00426dba","00426dba","longlong __fastcall FUN_00426dba(longlong param_1)",false,false,37
+"FUN_00426ddf","00426ddf","longlong __fastcall FUN_00426ddf(longlong param_1, undefined8 * param_2, longlong param_3, longlong param_4, longlong param_5, longlong param_6)",false,false,161
+"FUN_00426e80","00426e80","longlong __fastcall FUN_00426e80(longlong param_1, undefined8 * param_2, longlong param_3, longlong param_4)",false,false,111
+"FUN_00426eef","00426eef","longlong __fastcall FUN_00426eef(longlong param_1, undefined8 * param_2)",false,false,92
+"FUN_00426f4b","00426f4b","undefined __fastcall FUN_00426f4b(ulonglong * param_1, longlong param_2, ulonglong param_3)",false,false,194
+"FUN_0042700d","0042700d","longlong __fastcall FUN_0042700d(longlong param_1, longlong param_2)",false,false,55
+"FUN_00427044","00427044","longlong __fastcall FUN_00427044(longlong param_1, undefined8 * param_2, longlong param_3, longlong param_4, longlong param_5, longlong param_6)",false,false,161
+"FUN_004270e5","004270e5","longlong __fastcall FUN_004270e5(longlong param_1, undefined8 * param_2)",false,false,102
+"FUN_0042714b","0042714b","longlong __fastcall FUN_0042714b(longlong param_1, undefined8 * param_2)",false,false,92
+"FUN_004271a7","004271a7","longlong __fastcall FUN_004271a7(longlong param_1, longlong param_2)",false,false,55
+"FUN_004271de","004271de","longlong __fastcall FUN_004271de(longlong param_1, undefined8 * param_2, longlong param_3, longlong param_4, longlong param_5, longlong param_6)",false,false,161
+"FUN_0042727f","0042727f","longlong __fastcall FUN_0042727f(longlong param_1, undefined8 * param_2, longlong param_3, longlong param_4)",false,false,111
+"FUN_004272ee","004272ee","undefined8 __fastcall FUN_004272ee(longlong param_1, undefined8 param_2, longlong param_3, ulonglong param_4, longlong param_5, longlong param_6, ulonglong * param_7, uint * param_8)",false,false,404
+"FUN_00427482","00427482","undefined8 __fastcall FUN_00427482(longlong param_1, undefined8 param_2, longlong param_3, ulonglong param_4, longlong param_5, longlong param_6, ulonglong * param_7, uint * param_8)",false,false,404
+"FUN_00427616","00427616","undefined8 __fastcall FUN_00427616(longlong param_1, undefined8 param_2, longlong param_3, ulonglong param_4, longlong param_5, longlong param_6, int * param_7, undefined8 * param_8)",false,false,404
+"FUN_004277aa","004277aa","undefined8 __fastcall FUN_004277aa(uint * param_1, undefined8 param_2, uint * param_3, ulonglong param_4, longlong param_5, uint * param_6, uint * param_7, uint * param_8)",false,false,342
+"FUN_00427900","00427900","undefined8 __fastcall FUN_00427900(uint * param_1, undefined8 param_2, uint * param_3, ulonglong param_4, longlong param_5, uint * param_6, uint * param_7, uint * param_8)",false,false,351
+"FUN_00427a5f","00427a5f","ulonglong __fastcall FUN_00427a5f(longlong * param_1, undefined8 * param_2, ulonglong param_3)",false,false,11754
+"FUN_0042a849","0042a849","short * __fastcall FUN_0042a849(short * param_1, byte * param_2)",false,false,53
+"FUN_0042a87e","0042a87e","ulonglong __fastcall FUN_0042a87e(undefined8 * param_1, longlong param_2, ulonglong param_3, ulonglong * param_4)",false,false,4831
+"FUN_0042bb5d","0042bb5d","short * __fastcall FUN_0042bb5d(short * param_1, undefined8 param_2, longlong param_3)",false,false,269
+"FUN_0042bc6a","0042bc6a","short __fastcall FUN_0042bc6a(ulonglong * param_1, longlong param_2, ulonglong param_3, ulonglong * param_4)",false,false,762
+"FUN_0042bf64","0042bf64","short * __fastcall FUN_0042bf64(short * param_1, undefined8 param_2, longlong param_3)",false,false,264
+"FUN_0042c06c","0042c06c","ulonglong __fastcall FUN_0042c06c(ulonglong * param_1, longlong param_2, ulonglong param_3, longlong param_4)",false,false,902
+"FUN_0042c3f2","0042c3f2","longlong __fastcall FUN_0042c3f2(longlong param_1, longlong param_2, longlong param_3)",false,false,110
+"FUN_0042c460","0042c460","longlong __fastcall FUN_0042c460(longlong param_1, longlong param_2, longlong param_3)",false,false,96
+"FUN_0042c4c0","0042c4c0","longlong __fastcall FUN_0042c4c0(longlong param_1, longlong param_2, longlong param_3)",false,false,96
+"FUN_0042c520","0042c520","longlong __fastcall FUN_0042c520(longlong param_1, longlong param_2, undefined8 * param_3)",false,false,60
+"FUN_0042c55c","0042c55c","undefined __fastcall FUN_0042c55c(longlong param_1, ulonglong param_2, ulonglong * param_3, longlong param_4, undefined8 param_5, longlong param_6, ulonglong * param_7, uint * param_8)",false,false,356
+"FUN_0042c6c0","0042c6c0","longlong __fastcall FUN_0042c6c0(longlong param_1, longlong param_2, undefined8 * param_3)",false,false,70
+"FUN_0042c706","0042c706","undefined __fastcall FUN_0042c706(longlong param_1, ulonglong param_2, ulonglong * param_3, longlong param_4, undefined8 param_5, longlong param_6, ulonglong * param_7, uint * param_8)",false,false,356
+"FUN_0042c86a","0042c86a","undefined __fastcall FUN_0042c86a(longlong param_1, ulonglong param_2, ulonglong * param_3, longlong param_4, undefined8 param_5, longlong param_6, int * param_7, undefined8 * param_8)",false,false,366
+"FUN_0042c9d8","0042c9d8","longlong __fastcall FUN_0042c9d8(longlong param_1, longlong param_2, undefined8 * param_3)",false,false,80
+"FUN_0042ca28","0042ca28","undefined __fastcall FUN_0042ca28(uint * param_1, ulonglong param_2, undefined8 * param_3, uint * param_4, undefined8 param_5, uint * param_6, uint * param_7, uint * param_8)",false,false,279
+"FUN_0042cb3f","0042cb3f","undefined __fastcall FUN_0042cb3f(uint * param_1, ulonglong param_2, undefined8 * param_3, uint * param_4, undefined8 param_5, uint * param_6, uint * param_7, uint * param_8)",false,false,273
+"FUN_0042cc50","0042cc50","undefined __fastcall FUN_0042cc50(longlong * param_1, longlong * param_2)",false,false,183
+"FUN_0042cd07","0042cd07","ulonglong __fastcall FUN_0042cd07(longlong * param_1, longlong param_2, ulonglong param_3)",false,false,163
+"FUN_0042cdaa","0042cdaa","undefined __fastcall FUN_0042cdaa(longlong param_1, longlong param_2, ulonglong param_3)",false,false,45
+"FUN_0042cdd7","0042cdd7","undefined __fastcall FUN_0042cdd7(longlong param_1, longlong param_2, longlong param_3, longlong param_4)",false,false,98
+"FUN_0042ce39","0042ce39","undefined __fastcall FUN_0042ce39(longlong param_1, longlong param_2, longlong param_3, longlong param_4, longlong param_5)",false,false,165
+"FUN_0042cede","0042cede","undefined1 * __fastcall FUN_0042cede(longlong * param_1)",false,false,50
+"FUN_0042cf10","0042cf10","undefined8 __fastcall FUN_0042cf10(longlong param_1)",false,false,53
+"FUN_0042cf45","0042cf45","undefined8 __fastcall FUN_0042cf45(longlong param_1, byte param_2)",false,false,33
+"FUN_0042cf66","0042cf66","ulonglong * __fastcall FUN_0042cf66(ulonglong * param_1, undefined8 * param_2, longlong param_3, ulonglong param_4)",false,false,25
+"FUN_0042cf7f","0042cf7f","undefined2 * __fastcall FUN_0042cf7f(undefined2 * param_1, undefined8 * param_2)",false,false,184
+"FUN_0042d037","0042d037","undefined2 * __fastcall FUN_0042d037(undefined2 * param_1, undefined8 * param_2)",false,false,184
+"FUN_0042d0ef","0042d0ef","undefined2 * __fastcall FUN_0042d0ef(undefined2 * param_1, undefined8 * param_2)",false,false,184
+"FUN_0042d1a7","0042d1a7","undefined2 * __fastcall FUN_0042d1a7(undefined2 * param_1, undefined8 * param_2)",false,false,184
+"FUN_0042d25f","0042d25f","undefined8 __fastcall FUN_0042d25f(undefined8 * param_1, longlong param_2)",false,false,604
+"FUN_0042d4bb","0042d4bb","undefined __fastcall FUN_0042d4bb(undefined8 * param_1, ulonglong param_2)",false,false,140
+"FUN_0042d547","0042d547","undefined __fastcall FUN_0042d547(undefined8 * param_1, longlong param_2, uint param_3)",false,false,162
+"FUN_0042d5e9","0042d5e9","undefined8 __fastcall FUN_0042d5e9(undefined8 * param_1, longlong param_2, ulonglong param_3)",false,false,752
+"FUN_0042d8d9","0042d8d9","undefined8 __fastcall FUN_0042d8d9(undefined8 * param_1, longlong param_2, ulonglong param_3)",false,false,623
+"FUN_0042db48","0042db48","uint * __fastcall FUN_0042db48(uint * param_1, undefined8 * param_2)",false,false,194
+"FUN_0042dc0a","0042dc0a","undefined4 __fastcall FUN_0042dc0a(undefined8 * param_1, longlong param_2, ulonglong param_3)",false,false,68
+"FUN_0042dc4e","0042dc4e","undefined __fastcall FUN_0042dc4e(longlong param_1)",false,false,17
+"FUN_0042dc5f","0042dc5f","undefined __fastcall FUN_0042dc5f(undefined2 * param_1, longlong param_2)",false,false,49
+"FUN_0042dc90","0042dc90","ushort * __fastcall FUN_0042dc90(ushort * param_1, longlong param_2, byte param_3)",false,false,65
+"FUN_0042dcd1","0042dcd1","undefined4 * __fastcall FUN_0042dcd1(undefined4 * param_1, longlong param_2, byte param_3)",false,false,123
+"FUN_0042dd4c","0042dd4c","undefined8 __fastcall FUN_0042dd4c(ulonglong * param_1, uint param_2, ulonglong param_3)",false,false,233
+"FUN_0042de35","0042de35","undefined __fastcall FUN_0042de35(undefined8 * param_1, longlong param_2, uint param_3)",false,false,163
+"FUN_0042ded8","0042ded8","undefined __fastcall FUN_0042ded8(undefined8 * param_1, longlong param_2, uint param_3)",false,false,163
+"FUN_0042df7b","0042df7b","longlong __fastcall FUN_0042df7b(ushort * param_1, ulonglong param_2)",false,false,50
+"FUN_0042dfad","0042dfad","undefined8 __fastcall FUN_0042dfad(longlong param_1, uint param_2)",false,false,35
+"FUN_0042dfd0","0042dfd0","undefined2 * __fastcall FUN_0042dfd0(undefined2 * param_1, undefined8 * param_2)",false,false,184
+"FUN_0042e088","0042e088","undefined4 * __fastcall FUN_0042e088(undefined4 * param_1, undefined8 * param_2)",false,false,36
+"FUN_0042e0ac","0042e0ac","undefined8 __fastcall FUN_0042e0ac(undefined8 * param_1, ushort param_2)",false,false,214
+"FUN_0042e182","0042e182","uint * __fastcall FUN_0042e182(uint * param_1, undefined8 * param_2)",false,false,200
+"FUN_0042e24a","0042e24a","undefined __fastcall FUN_0042e24a(undefined8 * param_1)",false,false,49
+"FUN_0042e27b","0042e27b","undefined2 * __fastcall FUN_0042e27b(undefined2 * param_1, undefined8 * param_2)",false,false,191
+"FUN_0042e33a","0042e33a","undefined2 * __fastcall FUN_0042e33a(undefined2 * param_1, undefined8 * param_2)",false,false,191
+"FUN_0042e3f9","0042e3f9","undefined2 * __fastcall FUN_0042e3f9(undefined2 * param_1, undefined8 * param_2)",false,false,191
+"FUN_0042e4b8","0042e4b8","undefined __fastcall FUN_0042e4b8(longlong param_1)",false,false,17
+"FUN_0042e4c9","0042e4c9","undefined __fastcall FUN_0042e4c9(undefined2 * param_1, longlong param_2)",false,false,49
+"FUN_0042e4fa","0042e4fa","ushort * __fastcall FUN_0042e4fa(ushort * param_1, longlong param_2, uint param_3)",false,false,66
+"FUN_0042e53c","0042e53c","undefined4 * __fastcall FUN_0042e53c(undefined4 * param_1, longlong param_2, byte param_3)",false,false,123
+"FUN_0042e5b7","0042e5b7","ulonglong * __fastcall FUN_0042e5b7(ulonglong * param_1, undefined8 * param_2)",false,false,203
+"FUN_0042e682","0042e682","undefined1[16] * __fastcall FUN_0042e682(undefined1[16] * param_1, longlong param_2, ulonglong param_3, ulonglong param_4, ushort param_5)",false,false,645
+"FUN_0042e907","0042e907","ulonglong __fastcall FUN_0042e907(byte * param_1, ulonglong param_2)",false,false,392
+"FUN_0042ea8f","0042ea8f","undefined __fastcall FUN_0042ea8f(undefined8 * param_1, longlong param_2, longlong param_3)",false,false,88
+"FUN_0042eae7","0042eae7","undefined __fastcall FUN_0042eae7(int * param_1, longlong * param_2, uint * param_3)",false,false,65
+"FUN_0042eb28","0042eb28","longlong * __fastcall FUN_0042eb28(longlong * param_1, longlong * param_2, uint * param_3)",false,false,705
+"FUN_0042ede9","0042ede9","ulonglong __fastcall FUN_0042ede9(void)",false,false,109
+"FUN_0042ee56","0042ee56","undefined __fastcall FUN_0042ee56(longlong param_1, ulonglong param_2)",false,false,248
+"FUN_0042ef4e","0042ef4e","undefined8 * __fastcall FUN_0042ef4e(undefined8 * param_1, ulonglong * param_2, uint param_3)",false,false,423
+"FUN_0042f0f5","0042f0f5","longlong __fastcall FUN_0042f0f5(longlong param_1, char param_2, longlong param_3)",false,false,135
+"FUN_0042f17c","0042f17c","longlong __fastcall FUN_0042f17c(undefined8 param_1, undefined8 param_2)",false,false,393
+"FUN_0042f305","0042f305","longlong __fastcall FUN_0042f305(longlong param_1, longlong param_2)",false,false,162
+"FUN_0042f3a7","0042f3a7","longlong __fastcall FUN_0042f3a7(longlong param_1, longlong param_2, longlong param_3)",false,false,641
+"FUN_0042f628","0042f628","longlong __fastcall FUN_0042f628(longlong param_1, longlong param_2, longlong param_3)",false,false,173
+"FUN_0042f6d5","0042f6d5","undefined __fastcall FUN_0042f6d5(ulonglong * param_1, ulonglong * param_2)",false,false,82
+"FUN_0042f727","0042f727","undefined __fastcall FUN_0042f727(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,2600
+"FUN_0043014f","0043014f","ulonglong * __fastcall FUN_0043014f(ulonglong * param_1, ulonglong * param_2)",false,false,134
+"FUN_004301d5","004301d5","longlong __fastcall FUN_004301d5(longlong param_1, longlong param_2)",false,false,88
+"FUN_0043022d","0043022d","longlong __fastcall FUN_0043022d(longlong param_1, longlong param_2)",false,false,359
+"FUN_00430394","00430394","longlong __fastcall FUN_00430394(longlong param_1, longlong param_2)",false,false,108
+"FUN_00430400","00430400","longlong __fastcall FUN_00430400(longlong param_1, longlong param_2)",false,false,162
+"FUN_004304a2","004304a2","longlong __fastcall FUN_004304a2(longlong param_1, undefined1 param_2, longlong param_3)",false,false,675
+"FUN_00430745","00430745","longlong __fastcall FUN_00430745(longlong param_1, longlong param_2, longlong param_3)",false,false,71
+"FUN_0043078c","0043078c","ulonglong __fastcall FUN_0043078c(ulonglong * param_1, longlong param_2, ulonglong param_3)",false,false,223
+"FUN_0043086b","0043086b","ulonglong * __fastcall FUN_0043086b(ulonglong * param_1, undefined8 * param_2)",false,false,2191
+"FUN_004310fa","004310fa","undefined __fastcall FUN_004310fa(undefined8 * param_1, undefined8 * param_2)",false,false,77
+"FUN_00431147","00431147","undefined4 __fastcall FUN_00431147(ulonglong * param_1)",false,false,203
+"FUN_00431212","00431212","undefined4 __fastcall FUN_00431212(ulonglong * param_1, ulonglong * param_2)",false,false,76
+"FUN_0043125e","0043125e","undefined __fastcall FUN_0043125e(ulonglong * param_1, ulonglong * param_2)",false,false,941
+"FUN_0043160b","0043160b","undefined __fastcall FUN_0043160b(uint * param_1, longlong param_2)",false,false,7232
+"FUN_0043324b","0043324b","undefined __fastcall FUN_0043324b(longlong param_1, longlong param_2, ulonglong param_3, longlong param_4, longlong param_5)",false,false,84
+"FUN_0043329f","0043329f","undefined __fastcall FUN_0043329f(longlong param_1, ulonglong param_2, longlong param_3, ulonglong param_4, undefined8 * param_5)",false,false,399
+"FUN_0043342e","0043342e","undefined __fastcall FUN_0043342e(ulonglong * param_1, longlong param_2)",false,false,9872
+"FUN_00435abe","00435abe","undefined __fastcall FUN_00435abe(longlong param_1, longlong param_2, ulonglong param_3, longlong param_4, longlong param_5)",false,false,84
+"FUN_00435b12","00435b12","ulonglong __fastcall FUN_00435b12(longlong param_1, ulonglong param_2, longlong param_3, ulonglong param_4, undefined8 * param_5)",false,false,433
+"FUN_00435cc3","00435cc3","undefined __fastcall FUN_00435cc3(longlong param_1, longlong param_2, ulonglong param_3, longlong param_4, longlong param_5)",false,false,84
+"FUN_00435d17","00435d17","undefined __fastcall FUN_00435d17(longlong param_1, ulonglong param_2, longlong param_3, ulonglong param_4, undefined8 * param_5)",false,false,444
+"FUN_00435ed3","00435ed3","undefined __fastcall FUN_00435ed3(uint * param_1, uint * param_2, uint * param_3)",false,false,8572
+"FUN_0043804f","0043804f","longlong __fastcall FUN_0043804f(longlong param_1, ulonglong * param_2)",false,false,226
+"FUN_00438131","00438131","undefined __fastcall FUN_00438131(longlong param_1, longlong param_2, ulonglong param_3)",false,false,190
+"FUN_004381ef","004381ef","undefined __fastcall FUN_004381ef(longlong param_1)",false,false,60
+"FUN_0043822b","0043822b","undefined __fastcall FUN_0043822b(undefined8 * param_1, ulonglong * param_2)",false,false,67
+"FUN_0043826e","0043826e","bool __fastcall FUN_0043826e(longlong param_1, longlong param_2)",false,false,34
+"FUN_00438290","00438290","undefined __fastcall FUN_00438290(longlong param_1, longlong param_2, undefined8 param_3, longlong param_4, ulonglong param_5, ulonglong * param_6)",false,false,474
+"FUN_0043846a","0043846a","uint * __fastcall FUN_0043846a(uint * param_1, uint * param_2)",false,false,1523
+"FUN_00438a5d","00438a5d","undefined __fastcall FUN_00438a5d(uint * param_1, uint * param_2, uint * param_3)",false,false,9584
+"FUN_0043afcd","0043afcd","undefined __fastcall FUN_0043afcd(longlong param_1, longlong param_2, undefined8 param_3, longlong param_4, ulonglong param_5, ulonglong * param_6)",false,false,474
+"FUN_0043b1a7","0043b1a7","int __fastcall FUN_0043b1a7(longlong param_1, undefined8 param_2, longlong param_3, ulonglong param_4, int param_5, undefined8 * param_6, int * param_7)",false,false,1066
+"FUN_0043b5d1","0043b5d1","undefined __fastcall FUN_0043b5d1(longlong param_1, longlong param_2, ulonglong param_3)",false,false,190
+"FUN_0043b68f","0043b68f","undefined __fastcall FUN_0043b68f(ulonglong * param_1, ulonglong * param_2)",false,false,744
+"FUN_0043b977","0043b977","undefined __fastcall FUN_0043b977(undefined8 param_1, uint * param_2, uint * param_3)",false,false,31453
+"FUN_00443454","00443454","undefined __fastcall FUN_00443454(uint * param_1, uint * param_2, uint * param_3)",false,false,7543
+"FUN_004451cb","004451cb","undefined __fastcall FUN_004451cb(uint * param_1, uint * param_2, uint * param_3)",false,false,7614
+"FUN_00446f89","00446f89","undefined __fastcall FUN_00446f89(uint * param_1, uint * param_2, int param_3)",false,false,7473
+"FUN_00448cba","00448cba","undefined __fastcall FUN_00448cba(undefined8 param_1, uint * param_2, uint * param_3)",false,false,11238
+"FUN_0044b8a0","0044b8a0","undefined __fastcall FUN_0044b8a0(longlong param_1, undefined4 * param_2)",false,false,10104
+"FUN_0044e018","0044e018","undefined __fastcall FUN_0044e018(longlong param_1, uint * param_2, uint * param_3)",false,false,9844
+"FUN_0045068c","0045068c","undefined __fastcall FUN_0045068c(undefined8 param_1, longlong param_2, int param_3)",false,false,9975
+"FUN_00452d83","00452d83","bool __fastcall FUN_00452d83(char * param_1, ulonglong param_2, char * param_3, ulonglong param_4)",false,false,217
+"FUN_00452e5c","00452e5c","undefined2 * __fastcall FUN_00452e5c(undefined2 * param_1, longlong param_2, longlong param_3)",false,false,261
+"FUN_00452f61","00452f61","uint __fastcall FUN_00452f61(byte * param_1)",false,false,195
+"FUN_00453024","00453024","ulonglong * __fastcall FUN_00453024(ulonglong * param_1, longlong * param_2, longlong param_3, ulonglong param_4)",false,false,76
+"FUN_00453070","00453070","ulonglong __fastcall FUN_00453070(char * param_1, undefined8 * param_2)",false,false,261
+"FUN_00453175","00453175","ulonglong * __fastcall FUN_00453175(ulonglong * param_1, undefined8 * param_2)",false,false,6003
+"FUN_004548e8","004548e8","longlong __fastcall FUN_004548e8(longlong param_1, longlong param_2, longlong param_3)",false,false,248
+"FUN_004549e0","004549e0","undefined8 __fastcall FUN_004549e0(longlong param_1, longlong param_2)",false,false,64
+"FUN_00454a20","00454a20","longlong __fastcall FUN_00454a20(longlong param_1, undefined1 * param_2)",false,false,111
+"FUN_00454a8f","00454a8f","undefined __fastcall FUN_00454a8f(uint * param_1, longlong param_2)",false,false,177
+"FUN_00454b40","00454b40","undefined __fastcall FUN_00454b40(ulonglong * param_1, longlong param_2)",false,false,228
+"FUN_00454c24","00454c24","undefined __fastcall FUN_00454c24(ulonglong * param_1, longlong param_2)",false,false,228
+"FUN_00454d08","00454d08","undefined __fastcall FUN_00454d08(longlong param_1, uint * param_2, uint * param_3)",false,false,9848
+"FUN_00457380","00457380","undefined4 __fastcall FUN_00457380(uint param_1)",false,false,230
+"FUN_00457466","00457466","undefined __fastcall FUN_00457466(undefined4 * param_1, ushort * param_2, byte param_3, byte param_4)",false,false,84
+"FUN_004574ba","004574ba","longlong __fastcall FUN_004574ba(ushort * param_1)",false,false,181
+"FUN_00457588","00457588","undefined __fastcall FUN_00457588(longlong * param_1, uint * param_2)",false,false,20
+"FUN_0045759c","0045759c","undefined __fastcall FUN_0045759c(longlong * param_1, uint * param_2, uint * param_3)",false,false,41
+"FUN_004575c5","004575c5","ulonglong * __fastcall FUN_004575c5(ulonglong * param_1, ulonglong * param_2)",false,false,65
+"FUN_00457606","00457606","longlong __fastcall FUN_00457606(longlong param_1, longlong param_2)",false,false,108
+"FUN_00457672","00457672","undefined __fastcall FUN_00457672(ulonglong * param_1, longlong param_2, ulonglong param_3)",false,false,233
+"FUN_0045775b","0045775b","undefined __fastcall FUN_0045775b(ulonglong * param_1)",false,false,86
+"FUN_004577b1","004577b1","undefined __fastcall FUN_004577b1(longlong param_1, longlong param_2, ulonglong param_3)",false,false,102
+"FUN_00457817","00457817","undefined __fastcall FUN_00457817(ulonglong * param_1)",false,false,330
+"FUN_00457961","00457961","longlong __fastcall FUN_00457961(longlong param_1, longlong param_2)",false,false,240
+"FUN_00457a51","00457a51","undefined __fastcall FUN_00457a51(longlong param_1, longlong param_2, ulonglong param_3)",false,false,74
+"FUN_00457a9b","00457a9b","undefined __fastcall FUN_00457a9b(ulonglong * param_1)",false,false,3380
+"FUN_004587cf","004587cf","undefined __fastcall FUN_004587cf(longlong param_1, longlong param_2, ulonglong param_3)",false,false,66
+"FUN_00458811","00458811","longlong __fastcall FUN_00458811(longlong param_1, longlong param_2)",false,false,311
+"FUN_00458948","00458948","ulonglong * __fastcall FUN_00458948(ulonglong * param_1, ulonglong * param_2)",false,false,2168
+"FUN_004591c0","004591c0","undefined __fastcall FUN_004591c0(longlong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,234
+"FUN_004592aa","004592aa","undefined __fastcall FUN_004592aa(undefined1[16] * param_1, undefined1[16] * param_2, byte param_3)",false,false,14
+"FUN_004592b8","004592b8","undefined __fastcall FUN_004592b8(longlong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,1437
+"FUN_00459855","00459855","undefined __fastcall FUN_00459855(longlong * param_1, ulonglong * param_2)",false,false,1180
+"FUN_00459cf1","00459cf1","undefined __fastcall FUN_00459cf1(longlong * param_1, ulonglong * param_2, ulonglong * param_3, ulonglong * param_4, ulonglong * param_5, ulonglong param_6, ulonglong * param_7, ulonglong * param_8, ulonglong * param_9, ulonglong * param_10)",false,false,2441
+"FUN_0045a67a","0045a67a","undefined __fastcall FUN_0045a67a(longlong * param_1, longlong * param_2)",false,false,220
+"FUN_0045a756","0045a756","undefined __fastcall FUN_0045a756(undefined1[16] * param_1, byte param_2, undefined1[16] * param_3, undefined1[16] * param_4)",false,false,114
+"FUN_0045a7c8","0045a7c8","undefined __fastcall FUN_0045a7c8(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,2153
+"FUN_0045b031","0045b031","longlong __fastcall FUN_0045b031(longlong param_1, longlong param_2, longlong param_3)",false,false,180
+"FUN_0045b0e5","0045b0e5","undefined __fastcall FUN_0045b0e5(uint * param_1, longlong param_2)",false,false,125
+"FUN_0045b162","0045b162","longlong __fastcall FUN_0045b162(longlong param_1, longlong param_2, longlong param_3)",false,false,188
+"FUN_0045b21e","0045b21e","undefined __fastcall FUN_0045b21e(ulonglong * param_1, longlong param_2)",false,false,123
+"FUN_0045b299","0045b299","longlong __fastcall FUN_0045b299(longlong param_1, longlong param_2, longlong param_3)",false,false,188
+"FUN_0045b355","0045b355","undefined __fastcall FUN_0045b355(ulonglong * param_1, longlong param_2)",false,false,123
+"FUN_0045b3d0","0045b3d0","ulonglong __fastcall FUN_0045b3d0(undefined8 param_1, undefined8 param_2, undefined8 param_3)",false,false,111
+"FUN_0045b43f","0045b43f","undefined __fastcall FUN_0045b43f(longlong param_1, longlong param_2, ulonglong param_3)",false,false,762
+"FUN_0045b739","0045b739","undefined __fastcall FUN_0045b739(uint * param_1, ulonglong * param_2, ulonglong * param_3, uint * param_4)",false,false,8951
+"FUN_0045da30","0045da30","undefined __fastcall FUN_0045da30(uint * param_1, ulonglong * param_2, ulonglong * param_3, uint * param_4)",false,false,9975
+"FUN_00460127","00460127","undefined __fastcall FUN_00460127(undefined8 * param_1, undefined8 * param_2)",false,false,67
+"FUN_0046016a","0046016a","undefined __fastcall FUN_0046016a(longlong param_1, longlong param_2, ulonglong param_3)",false,false,501
+"FUN_0046035f","0046035f","undefined __fastcall FUN_0046035f(uint * param_1, longlong param_2, ulonglong param_3)",false,false,166
+"FUN_00460405","00460405","undefined __fastcall FUN_00460405(uint * param_1, longlong param_2)",false,false,177
+"FUN_004604b6","004604b6","ulonglong __fastcall FUN_004604b6(char * param_1, undefined8 * param_2)",false,false,261
+"FUN_004605bb","004605bb","longlong __fastcall FUN_004605bb(longlong param_1, ulonglong * param_2)",false,false,1964
+"FUN_00460d67","00460d67","undefined8 __fastcall FUN_00460d67(ulonglong * param_1)",false,false,83
+"FUN_00460dba","00460dba","ulonglong * __fastcall FUN_00460dba(ulonglong * param_1, longlong param_2, ulonglong * param_3)",false,false,472
+"FUN_00460f92","00460f92","short * __fastcall FUN_00460f92(short * param_1, undefined8 * param_2)",false,false,88
+"FUN_00460fea","00460fea","ulonglong * __fastcall FUN_00460fea(ulonglong * param_1, undefined8 * param_2, undefined8 param_3)",false,false,51
+"FUN_0046101d","0046101d","ulonglong * __fastcall FUN_0046101d(ulonglong * param_1, ulonglong * param_2)",false,false,825
+"FUN_00461356","00461356","ulonglong * __fastcall FUN_00461356(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,41
+"FUN_0046137f","0046137f","undefined8 __fastcall FUN_0046137f(ulonglong * param_1, ulonglong * param_2)",false,false,258
+"FUN_00461481","00461481","undefined __fastcall FUN_00461481(undefined8 * param_1, undefined8 * param_2)",false,false,95
+"FUN_004614e0","004614e0","ulonglong * __fastcall FUN_004614e0(ulonglong * param_1, ulonglong * param_2)",false,false,6971
+"FUN_0046301b","0046301b","undefined __fastcall FUN_0046301b(longlong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,390
+"FUN_004631a1","004631a1","undefined8 __fastcall FUN_004631a1(ulonglong * param_1, ulonglong * param_2)",false,false,98
+"FUN_00463203","00463203","undefined __fastcall FUN_00463203(undefined1[16] * param_1, undefined1[16] * param_2, byte param_3)",false,false,14
+"FUN_00463211","00463211","ulonglong * __fastcall FUN_00463211(ulonglong * param_1, ulonglong * param_2)",false,false,74
+"FUN_0046325b","0046325b","ulonglong * __fastcall FUN_0046325b(ulonglong * param_1, ulonglong * param_2)",false,false,1092
+"FUN_0046369f","0046369f","ulonglong * __fastcall FUN_0046369f(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,49
+"FUN_004636d0","004636d0","undefined1 * __fastcall FUN_004636d0(undefined1 * param_1, ulonglong * param_2)",false,false,441
+"FUN_00463889","00463889","longlong __fastcall FUN_00463889(longlong param_1, ulonglong * param_2, longlong param_3)",false,false,1145
+"FUN_00463d02","00463d02","undefined __fastcall FUN_00463d02(longlong * param_1, longlong param_2, ulonglong * param_3)",false,false,1667
+"FUN_00464385","00464385","undefined __fastcall FUN_00464385(undefined8 * param_1, longlong param_2)",false,false,1120
+"FUN_004647e5","004647e5","undefined8 * __fastcall FUN_004647e5(undefined8 * param_1, ulonglong * param_2, uint param_3)",false,false,572
+"FUN_00464a21","00464a21","undefined8 __fastcall FUN_00464a21(ulonglong * param_1, ulonglong * param_2)",false,false,388
+"FUN_00464ba5","00464ba5","undefined8 __fastcall FUN_00464ba5(longlong param_1, longlong param_2)",false,false,124
+"FUN_00464c21","00464c21","undefined __fastcall FUN_00464c21(ushort param_1, ulonglong param_2, undefined8 * param_3)",false,false,119
+"FUN_00464c98","00464c98","undefined __fastcall FUN_00464c98(undefined8 * param_1, longlong param_2, longlong param_3)",false,false,163
+"FUN_00464d3b","00464d3b","undefined __fastcall FUN_00464d3b(ulonglong param_1, ulonglong param_2, longlong * param_3)",false,false,204
+"FUN_00464e07","00464e07","ulonglong __fastcall FUN_00464e07(uint param_1)",false,false,48
+"thunk_FUN_0042e907","00464e37","ulonglong __fastcall thunk_FUN_0042e907(byte * param_1, ulonglong param_2)",true,false,5
+"FUN_00464e3c","00464e3c","undefined __fastcall FUN_00464e3c(void)",false,false,10
+"FUN_00464e46","00464e46","undefined __fastcall FUN_00464e46(longlong param_1, undefined8 * param_2, int * param_3)",false,false,590
+"FUN_00465094","00465094","ulonglong * __fastcall FUN_00465094(ulonglong * param_1, ulonglong * param_2, ulonglong param_3)",false,false,2855
+"FUN_00465bbb","00465bbb","undefined __fastcall FUN_00465bbb(ulonglong * param_1, ulonglong * param_2)",false,false,1478
+"FUN_00466181","00466181","undefined __fastcall FUN_00466181(ulonglong * param_1, longlong param_2, ulonglong param_3)",false,false,233
+"FUN_0046626a","0046626a","undefined __fastcall FUN_0046626a(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3, ulonglong * param_4, longlong param_5)",false,false,245
+"FUN_0046635f","0046635f","ulonglong * __fastcall FUN_0046635f(ulonglong * param_1, ulonglong * param_2)",false,false,692
+"FUN_00466613","00466613","undefined __fastcall FUN_00466613(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,1200
+"FUN_00466ac3","00466ac3","ulonglong * __fastcall FUN_00466ac3(ulonglong * param_1, ulonglong * param_2)",false,false,746
+"FUN_00466dad","00466dad","char __fastcall FUN_00466dad(longlong param_1, longlong param_2, longlong param_3)",false,false,86
+"FUN_00466e03","00466e03","undefined __fastcall FUN_00466e03(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,355
+"FUN_00466f66","00466f66","ulonglong * __fastcall FUN_00466f66(ulonglong * param_1, ulonglong * param_2)",false,false,25
+"FUN_00466f7f","00466f7f","ulonglong __fastcall FUN_00466f7f(undefined8 param_1, undefined8 param_2, undefined8 param_3, undefined8 param_4)",false,false,113
+"FUN_00466ff0","00466ff0","ulonglong __fastcall FUN_00466ff0(uint param_1, uint param_2)",false,false,266
+"FUN_004670fa","004670fa","ulonglong __fastcall FUN_004670fa(undefined8 param_1, undefined8 param_2, undefined8 param_3)",false,false,113
+"FUN_0046716b","0046716b","undefined __fastcall FUN_0046716b(longlong param_1, uint * param_2)",false,false,4374
+"FUN_00468281","00468281","ulonglong * __fastcall FUN_00468281(ulonglong * param_1, undefined8 * param_2, undefined8 param_3)",false,false,59
+"FUN_004682bc","004682bc","undefined8 * __fastcall FUN_004682bc(undefined8 * param_1, ulonglong * param_2)",false,false,824
+"FUN_004685f4","004685f4","ulonglong * __fastcall FUN_004685f4(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,1526
+"FUN_00468bea","00468bea","ulonglong * __fastcall FUN_00468bea(ulonglong * param_1, longlong * param_2)",false,false,1714
+"FUN_0046929c","0046929c","undefined __fastcall FUN_0046929c(ulonglong * param_1, ulonglong * param_2, undefined8 param_3)",false,false,3305
+"FUN_00469f85","00469f85","undefined __fastcall FUN_00469f85(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,7018
+"FUN_0046baef","0046baef","undefined __fastcall FUN_0046baef(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,549
+"FUN_0046bd14","0046bd14","undefined __fastcall FUN_0046bd14(undefined1[16] * param_1, byte param_2, undefined1[16] * param_3, undefined1[16] * param_4)",false,false,173
+"FUN_0046bdc1","0046bdc1","undefined __fastcall FUN_0046bdc1(longlong * param_1, longlong * param_2)",false,false,357
+"FUN_0046bf26","0046bf26","ulonglong * __fastcall FUN_0046bf26(ulonglong * param_1, ulonglong * param_2, ulonglong param_3)",false,false,7071
+"FUN_0046dac5","0046dac5","undefined __fastcall FUN_0046dac5(ulonglong * param_1, ulonglong * param_2, undefined8 param_3)",false,false,941
+"FUN_0046de72","0046de72","undefined4 __fastcall FUN_0046de72(longlong param_1)",false,false,213
+"FUN_0046df47","0046df47","ulonglong * __fastcall FUN_0046df47(ulonglong * param_1, ulonglong * param_2)",false,false,25
+"FUN_0046df60","0046df60","undefined __fastcall FUN_0046df60(ulonglong * param_1, ulonglong * param_2)",false,false,3512
+"FUN_0046ed18","0046ed18","undefined8 __fastcall FUN_0046ed18(longlong param_1, longlong param_2)",false,false,160
+"FUN_0046edb8","0046edb8","longlong __fastcall FUN_0046edb8(longlong param_1, longlong param_2, longlong param_3)",false,false,172
+"FUN_0046ee64","0046ee64","longlong __fastcall FUN_0046ee64(longlong param_1, longlong param_2, longlong param_3, longlong param_4)",false,false,195
+"FUN_0046ef27","0046ef27","bool __fastcall FUN_0046ef27(uint param_1)",false,false,70
+"FUN_0046ef6d","0046ef6d","undefined __fastcall FUN_0046ef6d(undefined8 * param_1, longlong * param_2)",false,false,162
+"FUN_0046f00f","0046f00f","bool __fastcall FUN_0046f00f(uint param_1)",false,false,26
+"FUN_0046f029","0046f029","bool __fastcall FUN_0046f029(uint param_1)",false,false,53
+"FUN_0046f05e","0046f05e","undefined8 __fastcall FUN_0046f05e(longlong * param_1, longlong param_2, longlong param_3)",false,false,65
+"FUN_0046f09f","0046f09f","undefined __fastcall FUN_0046f09f(undefined8 * param_1, ushort * param_2)",false,false,67
+"FUN_0046f0e2","0046f0e2","undefined __fastcall FUN_0046f0e2(void)",false,false,700
+"FUN_0046f39f","0046f39f","undefined __fastcall FUN_0046f39f(longlong param_1, longlong param_2, ulonglong param_3)",false,false,102
+"FUN_0046f405","0046f405","ulonglong * __fastcall FUN_0046f405(ulonglong * param_1, ulonglong * param_2, longlong param_3)",false,false,135
+"FUN_0046f48c","0046f48c","undefined __fastcall FUN_0046f48c(undefined8 * param_1, undefined8 * param_2)",false,false,77
+"FUN_0046f4d9","0046f4d9","undefined __fastcall FUN_0046f4d9(longlong * param_1, ulonglong * param_2, ulonglong * param_3, ulonglong * param_4, ulonglong * param_5, ulonglong param_6, ulonglong * param_7, ulonglong * param_8, ulonglong * param_9, ulonglong * param_10)",false,false,2548
+"FUN_0046fecd","0046fecd","undefined __fastcall FUN_0046fecd(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,2678
+"FUN_00470943","00470943","ulonglong * __fastcall FUN_00470943(ulonglong * param_1, ulonglong * param_2)",false,false,144
+"FUN_004709d3","004709d3","undefined __fastcall FUN_004709d3(ulonglong * param_1, ulonglong * param_2)",false,false,3439
+"FUN_00471742","00471742","undefined __fastcall FUN_00471742(longlong * param_1, ulonglong * param_2, ulonglong * param_3, ulonglong * param_4, ulonglong * param_5, ulonglong param_6, ulonglong * param_7, ulonglong * param_8, ulonglong * param_9, ulonglong * param_10)",false,false,4056
+"FUN_0047271a","0047271a","undefined __fastcall FUN_0047271a(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,6947
+"FUN_0047423d","0047423d","longlong * __fastcall FUN_0047423d(longlong * param_1, longlong param_2)",false,false,1452
+"FUN_004747e9","004747e9","undefined __fastcall FUN_004747e9(longlong * param_1, ulonglong * param_2, ulonglong * param_3, ulonglong * param_4, ulonglong * param_5, ulonglong param_6, ulonglong * param_7, ulonglong * param_8, ulonglong * param_9, ulonglong * param_10)",false,false,4020
+"FUN_0047579d","0047579d","undefined8 __fastcall FUN_0047579d(ulonglong param_1, byte param_2)",false,false,34
+"FUN_004757bf","004757bf","undefined8 __fastcall FUN_004757bf(longlong param_1, ulonglong * param_2, longlong param_3, longlong param_4)",false,false,585
+"FUN_00475a08","00475a08","undefined __fastcall FUN_00475a08(longlong param_1, uint param_2, longlong param_3)",false,false,122
+"FUN_00475a82","00475a82","ulonglong * __fastcall FUN_00475a82(ulonglong * param_1, undefined8 * param_2, LPCVOID param_3, ulonglong param_4)",false,false,22
+"FUN_00475a98","00475a98","noreturn undefined __fastcall FUN_00475a98(void)",false,false,14
+"FUN_00475aa7","00475aa7","undefined __fastcall FUN_00475aa7(undefined1[16] * param_1, undefined1[16] * param_2, byte param_3)",false,false,66
+"FUN_00475ae9","00475ae9","undefined __fastcall FUN_00475ae9(ulonglong * param_1, ulonglong * param_2, ulonglong * param_3)",false,false,374
+"FUN_00475c5f","00475c5f","undefined __fastcall FUN_00475c5f(longlong * param_1, ulonglong param_2, ulonglong param_3)",false,false,78
+"FUN_00475cb0","00475cb0","ulonglong __fastcall FUN_00475cb0(void)",false,false,48
+"FUN_00475ce0","00475ce0","longlong __fastcall FUN_00475ce0(ulonglong * param_1, ulonglong * param_2)",false,false,116
+"FUN_00475d54","00475d54","longlong __fastcall FUN_00475d54(ulonglong param_1, ulonglong param_2, ulonglong param_3, ulonglong * param_4)",false,false,258
+"FUN_00475e56","00475e56","ulonglong __fastcall FUN_00475e56(ulonglong param_1, ulonglong param_2, ulonglong param_3, ulonglong param_4, ulonglong * param_5)",false,false,248
+"FUN_00475f4e","00475f4e","undefined __fastcall FUN_00475f4e(longlong param_1, longlong param_2, longlong param_3)",false,false,32
+"FUN_00475f6e","00475f6e","undefined __fastcall FUN_00475f6e(longlong param_1, undefined1 param_2, longlong param_3)",false,false,22
+"NtClose","00475f90","undefined NtClose(void)",true,false,6
+"NtCreateFile","00475fa0","undefined NtCreateFile(void)",true,false,6
+"NtDeviceIoControlFile","00475fb0","undefined NtDeviceIoControlFile(void)",true,false,6
+"NtLockFile","00475fc0","undefined NtLockFile(void)",true,false,6
+"NtQueryObject","00475fd0","undefined NtQueryObject(void)",true,false,6
+"NtSetInformationFile","00475fe0","undefined NtSetInformationFile(void)",true,false,6
+"RtlEqualUnicodeString","00475ff0","undefined RtlEqualUnicodeString(void)",true,false,6
+"RtlExitUserProcess","00476000","undefined RtlExitUserProcess(void)",true,false,6
+"RtlGetFullPathName_U","00476010","undefined RtlGetFullPathName_U(void)",true,false,6
+"RtlWaitOnAddress","00476020","undefined RtlWaitOnAddress(void)",true,false,6
+"AcquireSRWLockExclusive","00476030","void __stdcall AcquireSRWLockExclusive(PSRWLOCK SRWLock)",true,false,6
+"CloseHandle","00476040","BOOL __stdcall CloseHandle(HANDLE hObject)",true,false,6
+"CreateProcessW","00476050","BOOL __stdcall CreateProcessW(LPCWSTR lpApplicationName, LPWSTR lpCommandLine, LPSECURITY_ATTRIBUTES lpProcessAttributes, LPSECURITY_ATTRIBUTES lpThreadAttributes, BOOL bInheritHandles, DWORD dwCreationFlags, LPVOID lpEnvironment, LPCWSTR lpCurrentDirectory, LPSTARTUPINFOW lpStartupInfo, LPPROCESS_INFORMATION lpProcessInformation)",true,false,6
+"ExitProcess","00476060","noreturn void __stdcall ExitProcess(UINT uExitCode)",true,false,6
+"GetCurrentThreadId","00476070","DWORD __stdcall GetCurrentThreadId(void)",true,false,6
+"GetDiskFreeSpaceExW","00476080","BOOL __stdcall GetDiskFreeSpaceExW(LPCWSTR lpDirectoryName, PULARGE_INTEGER lpFreeBytesAvailableToCaller, PULARGE_INTEGER lpTotalNumberOfBytes, PULARGE_INTEGER lpTotalNumberOfFreeBytes)",true,false,6
+"GetExitCodeProcess","00476090","BOOL __stdcall GetExitCodeProcess(HANDLE hProcess, LPDWORD lpExitCode)",true,false,6
+"GetFileAttributesW","004760a0","DWORD __stdcall GetFileAttributesW(LPCWSTR lpFileName)",true,false,6
+"GetLastError","004760b0","DWORD __stdcall GetLastError(void)",true,false,6
+"GetSystemInfo","004760c0","void __stdcall GetSystemInfo(LPSYSTEM_INFO lpSystemInfo)",true,false,6
+"GetSystemTimeAsFileTime","004760d0","void __stdcall GetSystemTimeAsFileTime(LPFILETIME lpSystemTimeAsFileTime)",true,false,6
+"GetTickCount64","004760e0","ULONGLONG __stdcall GetTickCount64(void)",true,false,6
+"GlobalMemoryStatusEx","004760f0","BOOL __stdcall GlobalMemoryStatusEx(LPMEMORYSTATUSEX lpBuffer)",true,false,6
+"MoveFileW","00476100","BOOL __stdcall MoveFileW(LPCWSTR lpExistingFileName, LPCWSTR lpNewFileName)",true,false,6
+"MultiByteToWideChar","00476110","int __stdcall MultiByteToWideChar(UINT CodePage, DWORD dwFlags, LPCSTR lpMultiByteStr, int cbMultiByte, LPWSTR lpWideCharStr, int cchWideChar)",true,false,6
+"ReadFile","00476120","BOOL __stdcall ReadFile(HANDLE hFile, LPVOID lpBuffer, DWORD nNumberOfBytesToRead, LPDWORD lpNumberOfBytesRead, LPOVERLAPPED lpOverlapped)",true,false,6
+"ReleaseSRWLockExclusive","00476130","void __stdcall ReleaseSRWLockExclusive(PSRWLOCK SRWLock)",true,false,6
+"SetEnvironmentVariableA","00476140","BOOL __stdcall SetEnvironmentVariableA(LPCSTR lpName, LPCSTR lpValue)",true,false,6
+"SetFilePointerEx","00476150","BOOL __stdcall SetFilePointerEx(HANDLE hFile, LARGE_INTEGER liDistanceToMove, PLARGE_INTEGER lpNewFilePointer, DWORD dwMoveMethod)",true,false,6
+"Sleep","00476160","void __stdcall Sleep(DWORD dwMilliseconds)",true,false,6
+"VirtualAlloc","00476170","LPVOID __stdcall VirtualAlloc(LPVOID lpAddress, SIZE_T dwSize, DWORD flAllocationType, DWORD flProtect)",true,false,6
+"VirtualFree","00476180","BOOL __stdcall VirtualFree(LPVOID lpAddress, SIZE_T dwSize, DWORD dwFreeType)",true,false,6
+"WaitForSingleObject","00476190","DWORD __stdcall WaitForSingleObject(HANDLE hHandle, DWORD dwMilliseconds)",true,false,6
+"WriteFile","004761a0","BOOL __stdcall WriteFile(HANDLE hFile, LPCVOID lpBuffer, DWORD nNumberOfBytesToWrite, LPDWORD lpNumberOfBytesWritten, LPOVERLAPPED lpOverlapped)",true,false,6
+"RegCloseKey","004761b0","LSTATUS __stdcall RegCloseKey(HKEY hKey)",true,false,6
+"RegOpenKeyExA","004761c0","LSTATUS __stdcall RegOpenKeyExA(HKEY hKey, LPCSTR lpSubKey, DWORD ulOptions, REGSAM samDesired, PHKEY phkResult)",true,false,6
+"RegQueryValueExA","004761d0","LSTATUS __stdcall RegQueryValueExA(HKEY hKey, LPCSTR lpValueName, LPDWORD lpReserved, LPDWORD lpType, LPBYTE lpData, LPDWORD lpcbData)",true,false,6
+"SystemFunction036","004761e0","BOOLEAN SystemFunction036(PVOID RandomBuffer, ULONG RandomBufferLength)",true,false,6
+"CertCloseStore","004761f0","BOOL __stdcall CertCloseStore(HCERTSTORE hCertStore, DWORD dwFlags)",true,false,6
+"CertEnumCertificatesInStore","00476200","PCCERT_CONTEXT __stdcall CertEnumCertificatesInStore(HCERTSTORE hCertStore, PCCERT_CONTEXT pPrevCertContext)",true,false,6
+"CertOpenSystemStoreW","00476210","HCERTSTORE __stdcall CertOpenSystemStoreW(HCRYPTPROV_LEGACY hProv, LPCWSTR szSubsystemProtocol)",true,false,6
+"closesocket","00476220","int __stdcall closesocket(SOCKET s)",true,false,6
+"connect","00476230","int __stdcall connect(SOCKET s, sockaddr * name, int namelen)",true,false,6
+"WSAGetLastError","00476240","int __stdcall WSAGetLastError(void)",true,false,6
+"WSAStartup","00476250","int __stdcall WSAStartup(WORD wVersionRequired, LPWSADATA lpWSAData)",true,false,6
+"WSASocketW","00476260","undefined WSASocketW(void)",true,false,6
+"freeaddrinfo","00476270","undefined freeaddrinfo(void)",true,false,6
+"getaddrinfo","00476280","undefined getaddrinfo(void)",true,false,6

@@ -1,0 +1,10 @@
+block,start,end,size,read,write,execute,initialized
+"Headers","00400000","004003ff",1024,true,false,false,true
+".text","00401000","004763ff",480256,true,false,true,true
+".rdata","00477000","005135ff",640512,true,false,false,true
+".data","00514000","005147ff",2048,true,true,false,true
+".pdata","00515000","005163ff",5120,true,false,false,true
+".CRT","00517000","005171ff",512,true,false,false,true
+".tls","00518000","0051a3ff",9216,true,true,false,true
+".reloc","0051b000","0051b3ff",1024,true,false,false,true
+"tdb","ff00000000","ff0000184f",6224,true,true,false,true
